@@ -1,5 +1,3 @@
-// Taller 11: la aplicación Express (sin listen), para poder usarla en las pruebas.
-
 const express = require("express");
 const cors = require("cors");
 const morgan = require("morgan");
